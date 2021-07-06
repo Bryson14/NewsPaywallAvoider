@@ -1,6 +1,4 @@
-from os import error
 import urllib.request as req
-import webbrowser as wb
 from bs4 import BeautifulSoup
 from sys import argv
 
